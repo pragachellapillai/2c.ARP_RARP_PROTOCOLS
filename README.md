@@ -45,7 +45,9 @@ REG NO:
 ```
 ## OUPUT - ARP
 CLIENT:
+
 ![image](https://github.com/pragachellapillai/2c.ARP_RARP_PROTOCOLS/assets/148254952/a4146ab4-fb7d-4d8c-9ba3-2db8b73d587f)
+
 SERVER:
 ![image](https://github.com/pragachellapillai/2c.ARP_RARP_PROTOCOLS/assets/148254952/a0a240a4-01c4-4e59-b242-6e26fdfa416b)
 
@@ -77,7 +79,9 @@ while True:
 ```
 ## OUPUT -RARP
 CLIENT:
+
 ![image](https://github.com/pragachellapillai/2c.ARP_RARP_PROTOCOLS/assets/148254952/8fd72e89-0375-47f3-95eb-3732aa34c8ce)
+
 SERVER:
 ![image](https://github.com/pragachellapillai/2c.ARP_RARP_PROTOCOLS/assets/148254952/7842b1a0-3462-4cfe-9017-bada024c807e)
 
